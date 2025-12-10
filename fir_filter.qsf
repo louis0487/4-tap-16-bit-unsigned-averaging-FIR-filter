@@ -48,7 +48,6 @@ set_global_assignment -name SYSTEMVERILOG_FILE project_tb2_tc.sv
 set_global_assignment -name SYSTEMVERILOG_FILE medianFilt.sv
 set_global_assignment -name SYSTEMVERILOG_FILE fir4rca_u.sv
 set_global_assignment -name SYSTEMVERILOG_FILE fir4rca_cas_u.sv
-set_global_assignment -name SYSTEMVERILOG_FILE fir4c_fig11_42.sv
 set_global_assignment -name SYSTEMVERILOG_FILE csa_with_cla.sv
 set_global_assignment -name PROJECT_OUTPUT_DIRECTORY output_files
 set_global_assignment -name MIN_CORE_JUNCTION_TEMP "-40"
