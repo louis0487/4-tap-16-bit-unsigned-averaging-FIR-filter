@@ -114,7 +114,4 @@ Each adder trades off performance and complexity differently. The CLA and CSA de
 
 ---
 
-Feel free to customize this document with **diagram examples**, **simulation waveforms**, or **synthesis results** for area/timing comparisons.
-::contentReference[oaicite:8]{index=8}
-
 
